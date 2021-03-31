@@ -1,0 +1,33 @@
+.t-main {
+  background-color: #000;
+}
+
+.t-card {
+  margin-right: 24px;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+.t-card.t-last {
+  margin-right: 0px;
+}
+
+.t-container {
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.t-content-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 24px;
+}
+
+.t-card-content {
+  padding: 16px;
+}
